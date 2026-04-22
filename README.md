@@ -17,7 +17,7 @@ class Program
 
 
 
-        //entradas
+       
         Console.WriteLine("Essa é a calculadora de aluguel, para calcular o valor do aluguel do seu imovel, digite as seguintes informações:");
 
         Console.WriteLine("Qual o seu nome?");
